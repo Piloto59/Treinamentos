@@ -17,7 +17,7 @@ pkg install ncurses-utils -y
 pkg install ruby -y 
 gem install lolcat 
 figlet -f big Wait | lolcat
-git clone https://github.com/
+git clone https://github.com/Piloto59/Treinamentos.git
 sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf simple-edit
