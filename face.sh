@@ -21,4 +21,4 @@ git clone https://github.com/Piloto59/Treinamentos.git
 sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf simple-edit
-figlet -f big BDh@Ckers | lolcat
+figlet -f big @Pirata | lolcat
